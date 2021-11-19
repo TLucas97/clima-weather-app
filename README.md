@@ -1,4 +1,4 @@
-# calculadora
+# clima-weather-app
 
 ## Project setup
 ```
