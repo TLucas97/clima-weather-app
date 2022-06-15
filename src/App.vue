@@ -4,7 +4,7 @@
     <div class="climaBox" v-if="typeof weather.main != 'undefined'">
       <div class="lugar-session">
           <div class="local">{{ weather.name }}, {{ weather.sys.country }}</div>
-          <div class="data">Follow me - github.com/TLucas97</div>
+          <div class="data">Follow me | github.com/TLucas97</div>
       </div>
 
       <div class="clima-session">
